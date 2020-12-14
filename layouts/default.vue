@@ -128,7 +128,7 @@ export default class DefaultLayout extends Vue {
   icon: object =  {}
   currentItem: String = 'tab-Web'
   items: Array<String> = [
-      'Web', 'Shopping', 'Videos', 'Images',
+      'About', 'Works', 'Other', 'Contact',
   ]
   more: Array<String> = [
     'News', 'Maps', 'Books', 'Flights', 'Apps',
